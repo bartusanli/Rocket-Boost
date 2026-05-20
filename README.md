@@ -41,7 +41,7 @@ git clone https://github.com/bartusanli/Rocket-Boost.git
 
 ## 🎯 How to Play
 
-- Use arrow keys or WASD to control your rocket
+- Use A,D to rotate and SPACE to fly your rocket
 - Solve each puzzle by navigating through obstacles
 - Reach the goal to advance to the next level
 - Master all levels to complete the game!
